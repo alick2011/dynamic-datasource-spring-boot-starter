@@ -7,7 +7,7 @@
 	<strong>一个基于springboot的快速集成多数据源的启动器</strong>
 </p>
 <p align="center">
-修改之处2.1.x版本
+修改支持2.1.x版本
 </p>
 <p align="center">
     <a href="https://www.travis-ci.org/baomidou/dynamic-datasource-spring-boot-starter" target="_blank">
